@@ -1,43 +1,82 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10"/>
-  <img src="https://img.shields.io/badge/Workspace-Centered-0F172A?style=for-the-badge" alt="Workspace-Centered"/>
-  <img src="https://img.shields.io/badge/Open-Protocols-16A34A?style=for-the-badge" alt="Open Protocols"/>
+  
+  <img src="https://img.shields.io/badge/Built_with-.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10"/>
+  <img src="https://img.shields.io/badge/Architecture-Workspace_First-0F172A?style=for-the-badge" alt="Workspace-First"/>
+  <img src="https://img.shields.io/badge/Protocols-MCP_•_ACP_•_AG_UI-16A34A?style=for-the-badge" alt="Open Protocols"/>
+  <img src="https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge" alt="Apache 2.0"/>
+  
+  <h1>⚡ DotCraft Dev Team</h1>
+  
+  <p><strong>Craft around your project.</strong></p>
+  
+  <p><em>One workspace. Many ways in. Real workflows with visibility and control.</em></p>
+  
 </div>
 
-<h1 align="center">DotCraftDev</h1>
+---
 
-<p align="center">
-  <strong>Open-source tools for building a shared intelligent workspace around your project.</strong>
-</p>
+## 🎯 What We Build
 
-<p align="center">
-  One workspace. Multiple entry points. Real workflows, with visibility and control built in.
-</p>
+**[DotCraft](https://github.com/DotCraftDev/DotCraft)** — A workspace-centered agent runtime that keeps AI context, memory, skills, and configuration with your project, not locked in a single interface.
 
-## DotCraft
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>📁 Project-First</h3>
+<p>Sessions, memory, skills, and config live under <code>.craft/</code><br/>and follow your project anywhere</p>
+</td>
+<td width="33%" align="center">
+<h3>⚡ Unified Core</h3>
+<p>One execution engine shared across<br/>CLI, Desktop, IDEs, APIs, and bots</p>
+</td>
+<td width="33%" align="center">
+<h3>🛡️ Observable</h3>
+<p>Built-in Dashboard, traces, approvals,<br/>and optional sandbox isolation</p>
+</td>
+</tr>
+</table>
 
-[DotCraft](https://github.com/DotCraftDev/DotCraft) is a workspace-centered agent runtime for development teams and individual builders.
+---
 
-Instead of keeping context inside a single chat surface, DotCraft keeps sessions, memory, skills, commands, and configuration with the project itself. The same workspace can then be reached from CLI, ACP-compatible editors and IDEs, APIs, AG-UI clients, chat channels, and GitHub-driven workflows.
+## 🔌 One Workspace, Many Ways In
 
-## Why It Stands Out
+Access the same project context from wherever you work:
 
-- **One shared workspace model**: connect CLI, ACP/IDE, API, AG-UI, QQ, WeCom, and GitHubTracker to the same project context
-- **Built for real workflows**: agent tools, workspace state, automation, and isolated workspaces are part of the product, not bolt-ons
-- **Observable and controllable**: Dashboard, traces, approvals, and optional sandbox isolation make agent behavior easier to inspect
-- **Open by design**: built around MCP, ACP, AG-UI, and OpenAI-compatible APIs instead of a closed single-client experience
-- **Extensible where it matters**: hooks, skills, workspace customization, and module-based architecture support different usage patterns
+| Entry Point | Best For |
+|-------------|----------|
+| 💻 **CLI & Rust TUI** | Terminal-native development |
+| 🖥️ **Desktop App** | Visual workspace management (Electron + React) |
+| ✏️ **IDE Integration** | Unity, JetBrains, Obsidian (via ACP) |
+| 🌐 **API & AG-UI** | Build your own Agent-powered experiences |
+| 💬 **Chat Platforms** | QQ, WeCom, Telegram, WeChat adapters |
+| 🤖 **Automations** | GitHub Issue/PR orchestration + local tasks |
 
-## Contributing
+**All entry points share the same unified session model** — no context fragmentation, no platform lock-in.
 
-We welcome bug reports, ideas, code contributions, docs improvements, and workflow experiments.
+---
 
-- **Join the discussion**: [GitHub Discussions](https://github.com/DotCraftDev/DotCraft/discussions)
-- **Report issues**: [Issue Tracker](https://github.com/DotCraftDev/DotCraft/issues)
-- **Start contributing**: [CONTRIBUTING.md](https://github.com/DotCraftDev/DotCraft/blob/main/CONTRIBUTING.md)
+## 🚀 Why DotCraft Stands Out
+
+- **🧠 Context that travels with your project** — Not trapped in a chat history, but living in `.craft/` as part of your codebase
+- **🔗 Open protocols by design** — MCP, ACP, AG-UI, OpenAI-compatible APIs — integrate anywhere
+- **👁️ See what the Agent sees** — Dashboard, traces, and approval flows make AI actions transparent
+- **🛠️ Real workflow support** — Hooks, skills, sandbox isolation, and automation pipelines built-in
+
+---
+
+## 🤝 Get Involved
+
+We're building tools for developers who want AI assistance that fits into *their* workflow, not the other way around.
+
+- **⭐ Star the project**: [DotCraft Repository](https://github.com/DotCraftDev/DotCraft)
+- **💬 Join the discussion**: [GitHub Discussions](https://github.com/DotCraftDev/DotCraft/discussions)
+- **🐛 Report issues**: [Issue Tracker](https://github.com/DotCraftDev/DotCraft/issues)
+- **📖 Read the docs**: [Documentation](https://github.com/DotCraftDev/DotCraft/tree/main/docs)
+- **🤝 Contribute**: [Contributing Guide](https://github.com/DotCraftDev/DotCraft/blob/main/CONTRIBUTING.md)
+
+---
 
 <div align="center">
 
-If DotCraft is useful to your workflow, consider giving the project a star.
-
+**Built with ❤️ by the DotCraft community**
 </div>
