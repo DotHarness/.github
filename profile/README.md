@@ -1,10 +1,10 @@
 ## 🎯 What We Build
 
-**[DotCraft](https://github.com/DotCraftDev/DotCraft)** — An Agent Harness crafting a persistent AI workspace around your project.
+**[DotCraft](https://github.com/DotCraftDev/DotCraft)** — A next-generation Agent Harness powered by .NET 10 and a Unified Session Core. Deliver seamless, observable AI orchestration across CLI, Desktop, and IDEs.
 
 ## 🤝 Get Involved
 
-We're building tools for developers who want AI assistance that fits into *their* workflow, not the other way around.
+We are building a future where AI isn't just a separate chat window, but a **seamlessly woven harness** around your professional workflow. Whether you are a .NET enthusiast, a Unity developer, or an AI researcher, there is a place for you here.
 
 - **⭐ Star the project**: [DotCraft Repository](https://github.com/DotCraftDev/DotCraft)
 - **💬 Join the discussion**: [GitHub Discussions](https://github.com/DotCraftDev/DotCraft/discussions)
