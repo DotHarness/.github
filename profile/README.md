@@ -38,7 +38,7 @@ Oratorio gives operators a project board for assigning Tasks to agents, tracks G
   https://github.com/DotHarness/dotcraft-unity.git
   ```
 
-Read the [DotCraft documentation](https://dotharness.github.io/dotcraft/) for setup, configuration, and integration guides.
+Read the [DotCraft documentation](https://www.dotcraft.net) for setup, configuration, and integration guides.
 
 ## Open Source & Contributing
 
@@ -48,6 +48,6 @@ Before opening a pull request, please read the [contributing guide](https://gith
 
 ## Support and Questions
 
-- Read the [DotCraft documentation](https://dotharness.github.io/dotcraft/) for setup, configuration, and integration guides.
+- Read the [DotCraft documentation](https://www.dotcraft.net) for setup, configuration, and integration guides.
 - Search or open an [issue](https://github.com/DotHarness/dotcraft/issues) for bugs and feature requests.
 - Start a [discussion](https://github.com/DotHarness/dotcraft/discussions) for questions, ideas, and community feedback.
