@@ -10,8 +10,6 @@ DotHarness builds project-scoped agent infrastructure and products.
 
 Most AI tools start with the individual. DotHarness starts with the project: the repository, Unity project, client workspace, or internal tool where context and decisions actually live.
 
-DotCraft is our core Agent Harness for project-scoped AI workspaces. Oratorio is our agent collaboration board, powered by DotCraft. dotcraft-unity is the Unity Editor client that connects Unity projects to DotCraft over ACP.
-
 ## What We Build
 
 - [DotCraft](https://github.com/DotHarness/dotcraft): AI Agent lives in your project. An open-source Agent Harness for project-scoped AI workspaces, with sessions, memory, skills, MCP tools, approvals, configuration, and clients across Desktop, CLI, TUI, bots, SDKs, and AppServer.
