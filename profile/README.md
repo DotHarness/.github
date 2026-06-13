@@ -1,9 +1,6 @@
 <div align="center">
 
-| dotcraft | oratorio | dotcraft-unity |
-| --- | --- | --- |
-| [![DotCraft overview](https://github.com/DotHarness/resources/raw/master/dotcraft/intro.png)](https://github.com/DotHarness/dotcraft) | [![Oratorio](https://github.com/DotHarness/resources/raw/master/oratorio/banner.png)](https://github.com/DotHarness/oratorio) | [![DotCraft Unity](https://github.com/DotHarness/resources/raw/master/dotcraft-unity/banner.png)](https://github.com/DotHarness/dotcraft-unity) |
-| AI Agent lives in your project. | Your kanban for collaborating with agents. | Use DotCraft inside the Unity Editor. |
+[![DotHarness project showcase](https://github.com/DotHarness/resources/raw/master/dotharness/profile-showcase.png)](https://github.com/DotHarness)
 
 </div>
 
